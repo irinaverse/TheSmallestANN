@@ -1,6 +1,6 @@
 ## The Smallest Artificial Neural Network in the World
 
-I've transformed my AI-education into a philosophical playground.
+I've transformed my AI-education into a philosophical one.
 
 Philosophy literally means love of knowledge and wisdom.
 
